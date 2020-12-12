@@ -28,6 +28,7 @@ Pod::Spec.new do |spec|
 
 
   spec.source_files = 'YSNRKit.h'
+  spec.vendored_frameworks = "YSNRFrameworkeLib.framework"
 
 
 
