@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "YSNRKit"
-  spec.version      = "1.0.2"
+  spec.version      = "1.0.3"
   spec.summary      = "开发中常用的自定义控件、开发经验、开发bug记录，常用宏、categories等封装，不再每个项目都手动配置，用Pod统一管理。"
 
 
